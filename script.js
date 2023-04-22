@@ -17,3 +17,6 @@ const Cart = isLoggedIn && ['Books']
 
 let stillIn = false
 const checkOut = stillIn && ['Books']
+
+let cashOut = true
+const chashier = cashOut && ''; 
